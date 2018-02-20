@@ -16,4 +16,6 @@ function johnLennonFacts(facts) {
     exclamationFacts.push(fact);
     i++;
   }
+  
+  return exclamationFacts;
 }
