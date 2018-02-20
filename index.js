@@ -19,3 +19,11 @@ function johnLennonFacts(facts) {
   
   return exclamationFacts;
 }
+
+function iLoveTheBeatles(num) {
+  var beatleLoves = [];
+  do {
+    beatleLoves.push("I love the Beatles!");
+    num++
+  } while (num < 15);
+}
